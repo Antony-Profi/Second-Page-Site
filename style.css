@@ -363,18 +363,22 @@
         width: 50px;
     }
 
+    #repair_hydraulic_cylinders .r4 {
+        padding: 30px 30px;
+    }
+    
     #repair_hydraulic_pumps_special_equipment .r4::after {
-        left: 55px;
-        top: 220px;
+        left: 3px;
+        top: 235px;
         height: 70%;
-        width: 145px;
+        width: 130px;
     }
 
     #repair_hydraulic_pumps_special_equipment .r4::before {
-        right: 70px;
-        top: 35px;
+        right: 4px;
+        top: 22px;
         height: 170px;
-        width: 145px;
+        width: 130px;
     }
 }
 
