@@ -399,7 +399,7 @@
     }
     
     #repair_hydraulic_pumps_special_equipment .r2 > .images-style img {
-        max-width: 50%;
+        max-width: 85%;
         margin-bottom: 20px;
     }
 
@@ -429,7 +429,7 @@
     }
 
     #repair_hydraulic_pumps_special_equipment .r3 > .image-centered img {
-        max-width: 70%;
+        max-width: 85%;
         margin-bottom: 20px;
     }
 
@@ -467,7 +467,7 @@
     }
 
     #repair_hydraulic_pumps_special_equipment .r4 img {
-        max-width: 50%;
+        max-width: 85%;
         margin-bottom: 20px;
     }
 
