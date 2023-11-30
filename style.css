@@ -180,6 +180,9 @@
 }
 
 #repair_hydraulic_pumps_special_equipment .underline_2 {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 31px;
     text-decoration: underline_second;
     text-underline-position: under;
 }
@@ -216,6 +219,9 @@
 }
 
 #repair_hydraulic_pumps_special_equipment .underline {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 31px;
     text-decoration: underline;
     text-underline-position: under;
 }
