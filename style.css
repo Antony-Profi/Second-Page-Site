@@ -183,7 +183,7 @@
     font-size: 15px;
     font-weight: 600;
     line-height: 31px;
-    text-decoration: underline_second;
+    text-decoration: underline;
     text-underline-position: under;
 }
 
@@ -433,7 +433,7 @@
     }
 
     #repair_hydraulic_pumps_special_equipment .r3 > .image-centered img {
-        max-width: 85%;
+        max-width: 100%;
         margin-bottom: 20px;
     }
 
