@@ -179,7 +179,7 @@
     margin: 0 auto
 }
 
-#repair_hydraulic_pumps_special_equipment .underline_2 {
+#repair_hydraulic_pumps_special_equipment .underline_second {
     font-size: 15px;
     font-weight: 600;
     line-height: 31px;
@@ -254,6 +254,7 @@
     content: url("https://antony-profi.github.io/Second-Page-Site/check_mark.png");
     vertical-align: middle;
     margin-right: 10px;
+    float: initial !important;
 }
 
 #repair_hydraulic_pumps_special_equipment .r4::after {
