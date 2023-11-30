@@ -453,13 +453,13 @@
 
     #repair_hydraulic_pumps_special_equipment .magnificent_image > .center_text {
         width: 97%;
+        padding-left: 5px;
     }
 
     #repair_hydraulic_pumps_special_equipment .magnificent_image > .center_text_second {
-        padding: 0 60px;
-        margin: 10px auto;
+        padding: 0 5px;
         width: 97%;
-        margin-bottom: 20px;
+        padding-left: 5px;
     }
 
     #repair_hydraulic_pumps_special_equipment .r4 {
@@ -490,10 +490,9 @@
     }
 
     #repair_hydraulic_pumps_special_equipment .super_image-centered > .center_text_second {
-        padding: 0 60px;
-        margin: 10px auto;
+        padding: 0 11px;
         width: 97%;
-        margin-bottom: 20px;
+        padding-left: 9px;
     }
 }
 .Block__ui_padding-top_s--yjxcw {
