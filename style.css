@@ -200,7 +200,7 @@
 }
 
 #repair_hydraulic_pumps_special_equipment .magnificent_image > .center_text_second {
-    padding: 0 60px;
+    padding: 0 48px;
     width: fit-content;
     margin-bottom: 30px;
 }
@@ -244,8 +244,7 @@
 }
 
 #repair_hydraulic_pumps_special_equipment .super_image-centered > .center_text_second {
-    margin: 10px;
-    padding: 0 51px;
+    margin: 10px auto;
     width: fit-content;
     margin-bottom: 30px;
 }
