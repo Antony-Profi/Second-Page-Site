@@ -228,7 +228,7 @@
 
 #repair_hydraulic_pumps_special_equipment .super_image-centered {
     width: fit-content;
-    margin: 0 auto
+    margin: 10px auto;
 }
 
 #repair_hydraulic_pumps_special_equipment .super_image-centered > .center_text > p {
