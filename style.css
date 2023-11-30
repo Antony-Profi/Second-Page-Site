@@ -81,7 +81,7 @@
 }
 
 #repair_hydraulic_pumps_special_equipment .r2 > .images-style img {
-    max-width: 40%;
+    max-width: 70%;
     height: auto;
     display: block;
     margin: 20px auto;
@@ -91,35 +91,35 @@
     content: "";
     display: block;
     position: absolute;
-    left: 125px;
-    top: -300px;
+    left: 20px;
+    top: -460px;
     z-index: 1;
     background: url("https://antony-profi.github.io/Second-Page-Site/gear.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     height: 70%;
-    width: 300px;
+    width: 175px;
 }
 
 #repair_hydraulic_pumps_special_equipment .r2::before {
     content: "";
     display: block;
     position: absolute;
-    right: 125px;
-    top: 200px;
+    right: 5px;
+    top: 340px;
     z-index: 1;
     background: url("https://antony-profi.github.io/Second-Page-Site/gear.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     height: 70%;
-    width: 250px;
+    width: 175px;
 }
 
 #circle {
     position: absolute;
-    left: -60px;
+    left: -65px;
     bottom: 450px;
     transform: rotate(180deg);
 }
@@ -137,7 +137,7 @@
 }
 
 #repair_hydraulic_pumps_special_equipment .r3 > .image-centered img {
-    max-width: 40%;
+    max-width: 70%;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -148,15 +148,15 @@
     content: "";
     display: block;
     position: absolute;
-    left: 100px;
-    top: 55px;
+    left: 15px;
+    top: 118px;
     z-index: 1;
     background: url("https://antony-profi.github.io/Second-Page-Site/gear.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     height: 70%;
-    width: 300px;
+    width: 175px;
 }
 
 #repair_hydraulic_pumps_special_equipment .r3::before {
@@ -180,7 +180,7 @@
 }
 
 #repair_hydraulic_pumps_special_equipment .underline_2 {
-    text-decoration: underline;
+    text-decoration: underline_second;
     text-underline-position: under;
 }
 
@@ -208,7 +208,7 @@
 }
 
 #repair_hydraulic_pumps_special_equipment .r4 img {
-    max-width: 40%;
+    max-width: 70%;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -254,30 +254,30 @@
     content: "";
     display: block;
     position: absolute;
-    left: 70px;
-    top: 500px;
+    left: 20px;
+    top: 535px;
     z-index: 1;
     background: url("https://antony-profi.github.io/Second-Page-Site/gear.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     height: 70%;
-    width: 300px;
+    width: 175px;
 }
 
 #repair_hydraulic_pumps_special_equipment .r4::before {
     content: "";
     display: block;
     position: absolute;
-    right: 70px;
-    top: -455px;
+    right: 11px;
+    top: -635px;
     z-index: 1;
     background: url("https://antony-profi.github.io/Second-Page-Site/gear.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     height: 70%;
-    width: 250px;
+    width: 175px;
 }
 
 @media screen and (max-width: 800px) {
