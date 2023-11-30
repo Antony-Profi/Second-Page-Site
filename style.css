@@ -392,11 +392,12 @@
     #repair_hydraulic_pumps_special_equipment .r2 {
         padding: 30px 30px;
     }
-
-    #repair_hydraulic_pumps_special_equipment .r2 {
-        padding: 30px 30px;
+    
+    #repair_hydraulic_pumps_special_equipment .r2 > .text_icon .title::after {
+        height: 25px;
+        width: 50px;
     }
-
+    
     #repair_hydraulic_pumps_special_equipment .r2 > .images-style img {
         max-width: 50%;
         margin-bottom: 20px;
