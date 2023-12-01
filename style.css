@@ -19,7 +19,7 @@
 }
 
 #repair_hydraulic_pumps_special_equipment .text {
-    font-size: 21px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 22px;
 }
@@ -439,7 +439,7 @@
     }
 
     #repair_hydraulic_pumps_special_equipment .r3 > .image-centered img {
-        max-width: 85%;
+        max-width: 102%;
         margin-bottom: 20px;
     }
 
