@@ -18,6 +18,12 @@
     z-index: 2;
 }
 
+#repair_hydraulic_pumps_special_equipment .text {
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 22px;
+}
+
 #repair_hydraulic_pumps_special_equipment .images-style > p {
     padding-left: 20px;
     padding-right: 10px;
@@ -429,11 +435,11 @@
     }
 
     #repair_hydraulic_cylinders .r3 {
-        padding: 30px 15px;
+        padding: 30px 30px;
     }
 
     #repair_hydraulic_pumps_special_equipment .r3 > .image-centered img {
-        max-width: 100%;
+        max-width: 85%;
         margin-bottom: 20px;
     }
 
