@@ -542,6 +542,39 @@
         height: 170px;
         width: 130px;
     }
+
+    #repair_hydraulic_pumps_special_equipment .r5 {
+        padding: 30px 60px;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r5 img {
+        max-width: 85%;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r6 {
+        padding: 30px 60px;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r7 {
+        padding: 30px 60px;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r7 .contacts {
+        width: initial;
+        gap: 23px;
+        flex-direction: column;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r7 .contacts_list {
+        display: flex;
+        gap: 26px;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r7 h3 {
+        padding-left: 25px;
+    }
 }
 
 @media screen and (max-width: 550px) {
@@ -663,6 +696,54 @@
         padding: 0 11px;
         width: 97%;
         padding-left: 9px;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r5 {
+        padding: 30px 30px;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r5 img {
+        max-width: 50%;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r6 {
+        padding: 30px 30px;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r7 {
+        padding: 30px 15px;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r7 .contacts {
+        background: #f1f1f1;
+        display: flex;
+        gap: 15px;
+        margin: 70px auto;
+        width: 88%;
+        height: auto;
+        padding: 15px 20px;
+        flex-direction: column;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r7 .contacts_list {
+        display: flex;
+        gap: 15px;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r7 .contacts img {
+        width: 25%;
+        object-fit: contain;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r7 h3 {
+        padding-left: 18px;
+    }
+
+    #repair_hydraulic_pumps_special_equipment .r7 > table {
+        table-layout: initial;
+        width: 100% !important;
     }
 }
 .Block__ui_padding-top_s--yjxcw {
