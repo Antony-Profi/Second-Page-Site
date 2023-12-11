@@ -351,14 +351,11 @@
     padding: 30px 120px;
 }
 
-#repair_hydraulic_pumps_special_equipment .title {
+#repair_hydraulic_pumps_special_equipment .r6 > .title {
+    padding-left: 40px;
     font-size: 37px;
     font-weight: 600;
     line-height: 34px;
-}
-
-#repair_hydraulic_pumps_special_equipment .r6 > .title {
-    padding-left: 40px;
 }
 
 #repair_hydraulic_pumps_special_equipment .r6 .title > span::before {
