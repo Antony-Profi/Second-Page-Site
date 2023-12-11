@@ -433,7 +433,7 @@
     display: flex;
     gap: 15px;
     margin: 70px auto;
-    width: 88%;
+    width: 87%;
     height: 200px;
     padding: 15px 20px;
 }
@@ -441,7 +441,7 @@
 #repair_hydraulic_pumps_special_equipment .r7 .contacts_list {
     margin-top: 20px;
     display: flex;
-    gap: 180px;
+    gap: 60px;
     justify-content: space-between;
     margin-bottom: 50px;
 }
