@@ -61,7 +61,7 @@
 
 #repair_hydraulic_pumps_special_equipment .r2 > .text_icon .title {
     position: relative;
-    width: 90%;
+    width: 99%;
     border-bottom: 1px solid silver;
     margin: 30px auto;
     padding-bottom: 10px;
@@ -343,7 +343,6 @@
 #repair_hydraulic_pumps_special_equipment .super_list-centered > .center_text_third {
     margin: 0px auto;
     width: fit-content;
-    padding-right: 1px;
 }
 
 #repair_hydraulic_pumps_special_equipment .r6 {
