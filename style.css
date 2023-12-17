@@ -438,8 +438,6 @@
     display: flex;
     gap: 15px;
     margin: 70px auto;
-    width: 87%;
-    height: 200px;
     padding: 15px 20px;
 }
 
@@ -472,7 +470,7 @@
     }
 
     #repair_hydraulic_pumps_special_equipment .r1 img {
-        max-width: 70%;
+        max-width: 100%;
         height: auto;
     }
 
@@ -590,7 +588,7 @@
     }
 
     #repair_hydraulic_pumps_special_equipment .r7 h3 {
-        padding-left: 25px;
+        padding-left: 1px;
     }
 }
 
